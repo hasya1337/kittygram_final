@@ -66,7 +66,7 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: hasya1337/kittygram_backend:latest
+          tags: reycode/kittygram_backend:latest
   
   frontend_tests:
     runs-on: ubuntu-latest
@@ -110,7 +110,7 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: hasya1337/kittygram_frontend:latest
+          tags: reycode/kittygram_frontend:latest
   
   build_gateway_and_push_to_docker_hub:
     name: Push gateway Docker image to DockerHub
@@ -133,7 +133,7 @@ jobs:
         with:
           context: ./nginx/
           push: true
-          tags: hasya1337/kittygram_gateway:latest
+          tags: reycode/kittygram_gateway:latest
   
   deploy:
     runs-on: ubuntu-latest
