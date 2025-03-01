@@ -5,7 +5,7 @@
 [![Gunicorn](https://img.shields.io/badge/-gunicorn-464646??style=flat-square&logo=gunicorn)](https://gunicorn.org/)
 [![CI/CD](https://img.shields.io/badge/-CI/CD-464646??style=flat-square&logo=CI/CD)](https://resources.github.com/ci-cd/)
 <br>
-![badge](https://github.com/devlili/kittygram_final/actions/workflows/main.yml/badge.svg)
+![badge](https://github.com/hasya1337/kittygram_final/actions/workflows/main.yml/badge.svg)
 
 
 # Kittygram
@@ -20,7 +20,7 @@ Kittygram — социальная сеть для обмена фотограф
 1. Клонируйте репозиторий на свой компьютер:
 
     ```bash
-    git clone https://github.com/devlili/kittygram_final.git
+    git clone https://github.com/hasya1337/kittygram_final.git
     ```
     ```bash
     cd kittygram
